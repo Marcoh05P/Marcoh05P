@@ -51,7 +51,7 @@ I contributed as a team member responsible for system analysis and data modeling
 ### 🎰 Vietlott Bingo Game
 > A simple Windows Forms lottery game application built with .NET Framework 4.8.  
 Features include ticket purchasing, draw period management, ticket tracking, account handling, and core lottery logic.  
-Designed with a straightforward interface for easy interaction and testing.
+Designed with a straightforward interface for easy interaction and testing.  
 > 🔗 GitHub Repo: https://github.com/Marcoh05P/GameVietlottBingo
 
 ### 💣 MineSweeper Game
