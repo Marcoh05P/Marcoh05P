@@ -44,10 +44,10 @@
 
 ## 🚀 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=VietPuncCorrSeq)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimcheese23&show_owner=true&repo=System-analysis-and-design-Picnic-company)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=GameVietlottBingo)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=MineSweeperGame)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=VietPuncCorrSeq)](https://github.com/Marcoh05P/VietPuncCorrSeq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimcheese23&show_owner=true&repo=System-analysis-and-design-Picnic-company)](https://github.com/kimcheese23/System-analysis-and-design-Picnic-company)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=GameVietlottBingo)](https://github.com/Marcoh05P/GameVietlottBingo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=MineSweeperGame)](https://github.com/Marcoh05P/MineSweeperGame)
 
 ---
 
