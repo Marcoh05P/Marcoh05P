@@ -35,38 +35,19 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔠 Vietnamese Punctuation Correction
-> A Transformer-based AI model to detect and correct punctuation errors in Vietnamese texts.  
-Built with Jupyter Notebook, Python, BLEU evaluation, Seq2Seq, BARTpho.  
-🔗 GitHub Repo: https://github.com/Marcoh05P/VietPuncCorrSeq
-
-### 🏕️ System Analysis and Design – Picnic Company
-> A group project focused on analyzing and designing an information system for a company organizing outdoor picnic and travel activities.  
-Applied BPC (Business Process Charts), DFD (Data Flow Diagrams), and ERD (Entity Relationship Diagrams) using PowerDesigner.  
-The project follows a structured software engineering process, from requirement analysis to system modeling.  
-I contributed as a team member responsible for system analysis and data modeling, including defining use cases, creating ERDs, and designing DFD levels.  
-🔗 GitHub Repo: https://github.com/kimcheese23/System-analysis-and-design-Picnic-company
-
-### 🎰 Vietlott Bingo Game
-> A simple Windows Forms lottery game application built with .NET Framework 4.8.  
-Features include ticket purchasing, draw period management, ticket tracking, account handling, and core lottery logic.  
-Designed with a straightforward interface for easy interaction and testing.  
-> 🔗 GitHub Repo: https://github.com/Marcoh05P/GameVietlottBingo
-
-### 💣 MineSweeper Game
-> A simple web-based version of the classic Minesweeper game, built with pure HTML, CSS, and JavaScript.  
-Provides a clean interface and basic logic for mine detection and flagging.  
-Fully client-side and ready to run in any modern browser.  
-🔗 GitHub Repo: https://github.com/Marcoh05P/MineSweeperGame
-
----
-
 ## 📈 GitHub Stats
 
 [![Marcoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcoh05P&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoh05P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🚀 Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=VietPuncCorrSeq)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimcheese23&show_owner=true&repo=System-analysis-and-design-Picnic-company)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=GameVietlottBingo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcoh05P&show_owner=true&repo=MineSweeperGame)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
