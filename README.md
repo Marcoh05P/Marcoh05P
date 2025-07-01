@@ -66,6 +66,7 @@ Fully client-side and ready to run in any modern browser.
 ## 📈 GitHub Stats
 
 [![Marcoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcoh05P&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoh05P&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
