@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Marcoh!
 
-🎓 I'm a **Computer Science student** at **Open University of Ho Chi Minh City**.
+🎓 I'm a **Computer Science student** at **Ho Chi Minh City Open University**.
 
 🌟 I’m passionate about learning, researching, building, and sharing knowledge.
 
