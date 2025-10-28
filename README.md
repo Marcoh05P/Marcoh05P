@@ -126,10 +126,5 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=✨+Learning+is+a+lifetime+journey!;🚀+Keep+growing,+keep+building,+keep+sharing!;💡+I+will+never+stop+walking+the+path+to+knowledge." alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=120&section=footer" />
 </p>
