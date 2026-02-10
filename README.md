@@ -14,6 +14,10 @@ I am a third-year **Computer Science** student at **Ho Chi Minh City Open Univer
 * 🌱 **Currently Learning:** Deep Learning and modern programming tools.
 * ⚡ **Fun Fact:** My neural networks sometimes overfit, but my passion for researching never does.
 
+<p align="center">
+  <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="Coding animation" width="220" />
+</p>
+
 ---
 
 ### 🛠️ Technical Skills
