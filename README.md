@@ -1,130 +1,49 @@
-<!-- Font & Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Hello,%20I'm%20Marcoh!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Montserrat" />
+# Hi there, I'm Marcoh! 👋
+
+> "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." — Abigail Adams
+
+I am a third-year **Computer Science** student at **Ho Chi Minh City Open University**. I focus on understanding Artificial Intelligence and building good software systems.
+
+---
+
+### 🧐 About Me
+
+* 🎓 **Education:** 3rd-year Student in Computer Science.
+* 🔬 **Interests:** Natural Language Processing (NLP), AI Engineering.
+* 🎯 **Career Goals:** I want to become a **Full-stack AI Engineer**, **NLP Scientist** and **University Lecturer** to connect academic theory with real-world projects.
+* 🌱 **Currently Learning:** Deep Learning and modern programming tools.
+* ⚡ **Fun Fact:** My neural networks sometimes overfit, but my passion for researching never does.
+
+---
+
+### 🛠️ Technical Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
+| **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Web Development** | ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database & .NET** | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) <br> ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=microsoft&logoColor=white) |
+| **Desktop Apps** | ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat-square&logo=windows&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) <br> ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.zcy.dev/api?username=Marcoh05P" height="150" alt="Marcoh's Stats" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=Marcoh05P&layout=compact" height="150" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎓 About Me  
+### 📫 Contact Me
 
-💻 I'm a **Computer Science student** at **Ho Chi Minh City Open University**.  
-🌟 Passionate about learning, researching, building, and sharing knowledge.  
-🚀 **Career goals**: Become a **Full-stack .NET Developer**, **AI NLP Engineer**, and **University Lecturer** in the future.  
-
----
-
-### 🧰 Technical Skills  
-
-#### 💻 Programming Languages  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/> 
-</p>
-
-#### 🧱 Frameworks & Technologies  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET Core"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="ReactJS"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React Native"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="WinForms"/> 
-</p>
-
-#### 🤖 AI & Machine Learning  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/> 
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45" title="Transformers"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" title="Google Colab"/> 
-</p>
-
-#### ⚙️ Tools & Environments  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" title="Notion"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Power Designer"/> 
-</p>
+* **Phone:** 0868 550 693
+* **Email:** [marcoh.dev@outlook.com](mailto:marcoh.dev@outlook.com)
+* **LinkedIn:** [linkedin.com/in/marcoh05p](https://www.linkedin.com/in/marcoh05p)
+* **Facebook:** [facebook.com/Marcoh05P](https://www.facebook.com/Marcoh05P)
 
 ---
-
-### 💬 Soft Skills  
-
-| 🤝 Teamwork & Communication | 🧠 Problem-Solving | ⏰ Time Management | 📚 Continuous Learning | 🎯 Responsibility & Discipline |
-|------------------------------|-------------------|--------------------|-----------------------|-------------------------------|
-| Collaborates effectively in teams and communicates clearly. | Approaches challenges logically and creatively. | Plans and prioritizes tasks to meet goals and deadlines. | Always curious, adaptive, and motivated to learn. | Demonstrates consistency, accountability, and focus. |
-
----
-
-### 🌐 Languages  
-
-| Language | Level | Notes |
-|-----------|--------|-------|
-| 🇻🇳 Vietnamese | Native | Fluent in all contexts |
-| 🇺🇸 English | Intermediate (CEFR B1) | Can read technical docs & communicate daily |
-| 🇯🇵 Japanese | Beginner (JLPT N5) | Currently studying for academic & career goals in Japan |
-
----
-
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcoh05P&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoh05P&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcoh05P" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcoh05P" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcoh05P&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🧩 Badges & Achievements  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marcoh05P&style=flat-square&color=0aa1ff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Marcoh05P?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Marcoh05P?label=Stars&style=flat-square&color=gold" alt="Stars" />
-  <img src="https://img.shields.io/badge/.NET%20Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Developer" />
-  <img src="https://img.shields.io/badge/AI%20Researcher-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Researcher" />
-  <img src="https://img.shields.io/badge/Learner-00B4DB?style=flat-square&logo=google-scholar&logoColor=white" alt="Learner" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source Contributor" />
-</p>
-
----
-
-### 📫 Contact Me  
-
-<p align="center">
-  📧 <a href="mailto:marcoh.dev@outlook.com">marcoh.dev@outlook.com</a> •  
-  💼 <a href="https://www.linkedin.com/in/marcoh05p">LinkedIn</a> •  
-  🌐 <a href="https://www.facebook.com/Marcoh05P">Facebook</a> •  
-  📞 0868 550 693
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=✨+Learning+is+a+lifetime+journey!;🚀+Keep+growing,+keep+building,+keep+sharing!;💡+I+will+never+stop+walking+the+path+to+knowledge." alt="Typing SVG" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=120&section=footer" />
-</p>
+<p align="center"><i>©2026 Marcoh05P - Hoàng Phi Hùng - Ho Chi Minh City Open University</i></p>
