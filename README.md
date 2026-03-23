@@ -46,7 +46,7 @@ I am a third-year **Computer Science** student at **Ho Chi Minh City Open Univer
 ### 📫 Contact Me
 
 * **Phone:** 0868 550 693
-* **Email:** [marcoh.dev@outlook.com](mailto:marcoh.dev@outlook.com)
+* **Email:** [marcoh.aidev@gmail.com](mailto:marcoh.aidev@gmail.com)
 * **LinkedIn:** [linkedin.com/in/marcoh05p](https://www.linkedin.com/in/marcoh05p)
 * **Facebook:** [facebook.com/Marcoh05P](https://www.facebook.com/Marcoh05P)
 
