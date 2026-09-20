@@ -7,7 +7,7 @@ I am a final-year **Computer Science** student at **Ho Chi Minh City Open Univer
 ### 🧐 About Me
 
 * 🎓 **Education:** final-year Student in Computer Science.
-* 🔬 **Research Interests:** Deep Learning, with a specialized focus on **Natural Language Processing (NLP)**, **Computer Vision (CV)**, **AI Agent** and **Vision-Language Models (VLM)**.
+* 🔬 **Research Interests:** Deep Learning, with a specialized focus on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Computer Vision (CV)**, **Vision-Language Models (VLMs)**, **Retrieval-Augmented Generation (RAG)** and **AI Agents**.
 * 🎯 **Career Goals:** I want to become a **Full-stack AI Engineer**, **AI Scientist** and **University Lecturer** to connect academic theory with real-world projects.
 * 🌱 **Currently Learning:** Connecting academic rigor with real-world impact as an AI Engineer and future University Lecturer.
 * ⚡ **Fun Fact:** My neural networks sometimes overfit, but my passion for researching never does.
